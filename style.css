@@ -1,0 +1,26 @@
+h1
+{
+    color:blue;
+    text-align: center;
+}
+
+.nombre
+{
+    font-weight: bold;
+}
+
+#logo
+{
+    text-align: center;
+}
+
+#grupo
+{
+    text-align: center;
+}
+
+#imagenGrupo
+{
+    weight: 400px;
+    height: 341px;
+}
