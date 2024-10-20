@@ -24,3 +24,13 @@ h1
     weight: 400px;
     height: 341px;
 }
+
+#comentarios
+{
+    font-weight: bold;
+}
+
+#contComen
+{
+    text-align:center;
+}
